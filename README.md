@@ -1,5 +1,5 @@
 # Library-Management-Portal
-I created this small project when I started learning python, Felt uploading for reference purpose
-
+This project comprises of the concepts of oops which are applied using python
+I have made this small library management portal
 It takes simple inputs and reflects them in the terminal itself
 
